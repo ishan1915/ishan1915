@@ -23,22 +23,20 @@
 
 ---
 
-## 🏆 GitHub Trophies
+ ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ishan1915&theme=gruvbox&no-frame=true&margin-w=15&column=7" />
 </p>
 
----
 
 ## 🚀 GitHub Summary
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers//ishan1915?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars//ishan1915?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/followers/ishan1915?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/ishan1915?label=Stars&style=social" />
 </p>
 
----
 
 ## 📫 Let's Connect
 
