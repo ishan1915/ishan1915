@@ -15,9 +15,9 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=/ishan1915&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=tokyonight" alt="Ishan's GitHub Stats" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=ishan1915&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=tokyonight" alt="Ishan's GitHub Stats" height="200">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/ishan1915&layout=compact&theme=tokyonight" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan1915&layout=compact&theme=tokyonight" height="200" />
 
 </div>
 
