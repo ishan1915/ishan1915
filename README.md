@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Ishan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Passionate+Django+Developer;Full+Stack+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Passionate+Django+Developer;Full+Stack+Web+Developer ;Always+Learning+New+Tech" />
 </p>
 
 <p align="center">
